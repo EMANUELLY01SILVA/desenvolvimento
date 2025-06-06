@@ -1,4 +1,4 @@
-lass Conta:
+Class Conta:
     # método construtor
     def __init__(self, agencia, numero, titular, saldo, senha):
         # criando os atributos da classe
